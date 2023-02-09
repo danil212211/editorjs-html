@@ -29,7 +29,7 @@ export declare type block = {
         items?: Array<string> | Array<ListItem>;
         style?: string;
         code?: string;
-        service?: "vimeo" | "youtube";
+        service?: "vimeo" | "youtube" | "rutube";
         source?: string;
         embed?: string;
         width?: number;
